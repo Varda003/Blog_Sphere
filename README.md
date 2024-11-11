@@ -5,7 +5,7 @@ Welcome to the **Blog_Sphere** repository! This project is a responsive and visu
 ---
 ## Demo
 
-Check out the live demo of the project [here](https://preeminent-truffle-7e7219.netlify.app/).
+Check out the live demo of the project [here](https://cheery-bienenstitch-ef9676.netlify.app/).
 ---
 
 ## Table of Contents
